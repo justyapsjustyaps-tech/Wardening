@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 34,
+      "minecraft:zombified_piglin": 1
+    },
+    "minecraft:killed": {
+      "minecraft:happy_ghast": 1,
+      "minecraft:zombie": 2,
+      "minecraft:nautilus": 1,
+      "minecraft:tropical_fish": 1,
+      "minecraft:chicken": 5,
+      "minecraft:pig": 4,
+      "minecraft:sheep": 9,
+      "minecraft:cow": 4,
+      "minecraft:cod": 3
+    },
+    "minecraft:mined": {
+      "minecraft:fire": 2,
+      "minecraft:white_stained_glass_pane": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:red_shulker_box": 6,
+      "minecraft:lead": 1,
+      "minecraft:brown_harness": 1,
+      "minecraft:sweet_berries": 3,
+      "minecraft:happy_ghast_spawn_egg": 1,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:granite": 11,
+      "minecraft:ice": 1,
+      "minecraft:red_harness": 2,
+      "minecraft:redstone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:trigger_trapped_chest": 3,
+      "minecraft:time_since_rest": 159,
+      "minecraft:leave_game": 7,
+      "minecraft:mob_kills": 30,
+      "minecraft:damage_taken": 242588,
+      "minecraft:open_shulker_box": 5,
+      "minecraft:time_since_death": 158,
+      "minecraft:inspect_dispenser": 6,
+      "minecraft:happy_ghast_one_cm": 220242,
+      "minecraft:total_world_time": 155583,
+      "minecraft:swim_one_cm": 1430,
+      "minecraft:crouch_one_cm": 13805,
+      "minecraft:climb_one_cm": 3192,
+      "minecraft:deaths": 47,
+      "minecraft:player_kills": 7,
+      "minecraft:damage_resisted": 93680,
+      "minecraft:walk_one_cm": 191902,
+      "minecraft:walk_under_water_one_cm": 9770,
+      "minecraft:play_time": 155583,
+      "minecraft:damage_dealt": 3768,
+      "minecraft:jump": 1407,
+      "minecraft:drop": 6,
+      "minecraft:sprint_one_cm": 310157,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 393034,
+      "minecraft:fly_one_cm": 1958867,
+      "minecraft:walk_on_water_one_cm": 1352,
+      "minecraft:sneak_time": 9729
+    },
+    "minecraft:dropped": {
+      "minecraft:redstone": 1,
+      "minecraft:spruce_trapdoor": 1,
+      "minecraft:ice": 1,
+      "minecraft:snow": 1,
+      "minecraft:oak_stairs": 64,
+      "minecraft:dirt": 1
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 282,
+      "minecraft:netherite_sword": 123,
+      "minecraft:birch_slab": 4,
+      "minecraft:spruce_stairs": 58,
+      "minecraft:happy_ghast_spawn_egg": 3,
+      "minecraft:tnt": 982,
+      "minecraft:warped_fence": 1,
+      "minecraft:red_shulker_box": 1,
+      "minecraft:white_stained_glass_pane": 6,
+      "minecraft:gray_concrete": 2,
+      "minecraft:dirt": 4,
+      "minecraft:snow": 75,
+      "minecraft:sweet_berries": 1,
+      "minecraft:redstone": 4,
+      "minecraft:dragon_egg": 4,
+      "minecraft:infested_stone_bricks": 8,
+      "minecraft:cobblestone": 1,
+      "minecraft:stone": 28,
+      "minecraft:oak_stairs": 4,
+      "minecraft:polished_andesite": 135,
+      "minecraft:flint_and_steel": 4,
+      "minecraft:splash_potion": 13,
+      "minecraft:deepslate_tiles": 237,
+      "minecraft:light_blue_bed": 1,
+      "minecraft:polished_andesite_stairs": 1,
+      "minecraft:ice": 3
+    }
+  },
+  "DataVersion": 4671
+}

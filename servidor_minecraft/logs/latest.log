@@ -1,0 +1,296 @@
+[07:55:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[07:55:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[07:55:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:55:28] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[07:55:32] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3472ms.
+[07:55:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[07:55:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - FastAsyncWorldEdit (2.15.0+59372c5), SkinsRestorer (15.12.0), voicechat (2.6.15)
+[07:55:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:55:39] [ServerMain/INFO]: Loaded 1470 recipes
+[07:55:39] [ServerMain/INFO]: Loaded 1584 advancements
+[07:55:39] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[07:55:40] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 475.8ms
+[07:55:40] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[07:55:40] [Server thread/INFO]: Loading properties
+[07:55:40] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[07:55:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:55:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:55:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:55:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:55:41] [Server thread/INFO]: Default game type: SURVIVAL
+[07:55:41] [Server thread/INFO]: Generating keypair
+[07:55:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:55:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:55:41] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:55:42] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.15.0+59372c5
+[07:55:43] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2fef5355]
+[07:55:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[07:55:43] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.15
+[07:55:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:55:43] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.15.0+59372c5
+[07:55:43] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[07:55:43] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[07:55:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[07:55:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:55:44] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_11.PaperweightFaweAdapter as the Bukkit adapter
+[07:55:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[07:55:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[07:55:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:55:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:55:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:55:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:55:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:55:46] [Server thread/INFO]: Preparing level "world"
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:55:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[07:55:46] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[07:55:46] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[07:55:47] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[07:55:47] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:55:47] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[07:55:47] [Server thread/INFO]: Preparing spawn area: 100%
+[07:55:47] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:55:47] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:the_end'...
+[07:55:47] [Server thread/INFO]: Preparing spawn area: 16%
+[07:55:48] [Server thread/INFO]: Prepared spawn area in 1056 ms
+[07:55:48] [Server thread/INFO]: Done preparing level "world" (1.658s)
+[07:55:48] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.15
+[07:55:48] [Server thread/ERROR]: [voicechat] Failed to parse target Paper version: 1.21.11-R0.1-SNAPSHOT
+[07:55:48] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.11-R0.1
+[07:55:48] [Server thread/INFO]: [voicechat] Compatibility version 20
+[07:55:48] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[07:55:48] [Server thread/INFO]: [spark] Starting background profiler...
+[07:55:49] [Server thread/INFO]: Running delayed init tasks
+[07:55:49] [Server thread/INFO]: Done (26.497s)! For help, type "help"
+[07:55:49] [Server thread/INFO]: [voicechat] Loading plugins
+[07:55:49] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[07:55:49] [Server thread/INFO]: [voicechat] Initializing plugins
+[07:55:49] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[07:55:49] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[07:55:49] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'availability-vault.gl.at.ply.gg'
+[07:55:49] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2771
+[07:55:49] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 31 build(s) behind ***
+[07:55:49] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[07:57:37] [User Authenticator #0/INFO]: UUID of player ExpertDead is 06d082fc-1f22-3659-9cbd-8715295f2739
+[07:57:40] [Server thread/INFO]: ExpertDead joined the game
+[07:57:40] [Server thread/INFO]: ExpertDead[/127.187.186.181:60053] logged in with entity id 43 at ([world]-124.12300987413188, 67.0, 335.30000001192093)
+[07:57:41] [Server thread/INFO]: [voicechat] Received secret request of ExpertDead (20)
+[07:57:41] [Server thread/INFO]: [voicechat] Sent secret to ExpertDead
+[07:57:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06d082fc-1f22-3659-9cbd-8715295f2739
+[07:57:42] [User Authenticator #0/INFO]: UUID of player Itz_Xblade is 3f218840-8387-366e-ad27-e31b8b637e1b
+[07:57:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06d082fc-1f22-3659-9cbd-8715295f2739
+[07:57:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ExpertDead (06d082fc-1f22-3659-9cbd-8715295f2739) successfully connected to voice chat
+[07:57:43] [Server thread/INFO]: Itz_Xblade joined the game
+[07:57:43] [Server thread/INFO]: Itz_Xblade[/127.175.164.177:54165] logged in with entity id 294 at ([world_the_end]36.21364009028139, 92.36250121146438, 12.432926676710034)
+[07:57:43] [Server thread/INFO]: [voicechat] Received secret request of Itz_Xblade (20)
+[07:57:43] [Server thread/INFO]: [voicechat] Sent secret to Itz_Xblade
+[07:57:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3f218840-8387-366e-ad27-e31b8b637e1b
+[07:57:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3f218840-8387-366e-ad27-e31b8b637e1b
+[07:57:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Itz_Xblade (3f218840-8387-366e-ad27-e31b8b637e1b) successfully connected to voice chat
+[07:59:16] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
+[07:59:29] [Server thread/INFO]: ExpertDead issued server command: /tp Itz_Xblade ExpertDead
+[07:59:29] [Server thread/INFO]: [ExpertDead: Teleported Itz_Xblade to ExpertDead]
+[07:59:36] [User Authenticator #1/INFO]: UUID of player Anime_Del is 5eaadf8a-fe18-384b-81f6-69db015642c5
+[07:59:36] [Server thread/INFO]: Anime_Del joined the game
+[07:59:36] [Server thread/INFO]: Anime_Del[/127.141.113.190:52809] logged in with entity id 1870 at ([world]-64.09786410714354, 71.9134667825567, 367.3245977627985)
+[07:59:36] [Server thread/INFO]: [voicechat] Received secret request of Anime_Del (20)
+[07:59:36] [Server thread/INFO]: [voicechat] Sent secret to Anime_Del
+[07:59:37] [Server thread/WARN]: Happy Ghast (vehicle of ExpertDead) moved wrongly! 1.3766044589715705
+[07:59:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5eaadf8a-fe18-384b-81f6-69db015642c5
+[07:59:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5eaadf8a-fe18-384b-81f6-69db015642c5
+[07:59:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Anime_Del (5eaadf8a-fe18-384b-81f6-69db015642c5) successfully connected to voice chat
+[07:59:45] [User Authenticator #1/INFO]: UUID of player AscendedRoss is 00d2cb0a-27dc-364e-ac63-24d5e96a494d
+[07:59:52] [User Authenticator #1/INFO]: UUID of player AscendedRoss is 00d2cb0a-27dc-364e-ac63-24d5e96a494d
+[07:59:53] [Server thread/INFO]: AscendedRoss joined the game
+[07:59:53] [Server thread/INFO]: AscendedRoss[/127.69.119.239:53051] logged in with entity id 2317 at ([world]-116.08041212466881, 63.0, 314.31150135043373)
+[07:59:53] [Server thread/INFO]: [voicechat] Received secret request of AscendedRoss (20)
+[07:59:53] [Server thread/INFO]: [voicechat] Sent secret to AscendedRoss
+[07:59:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 00d2cb0a-27dc-364e-ac63-24d5e96a494d
+[07:59:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 00d2cb0a-27dc-364e-ac63-24d5e96a494d
+[07:59:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AscendedRoss (00d2cb0a-27dc-364e-ac63-24d5e96a494d) successfully connected to voice chat
+[08:00:14] [Server thread/INFO]: AscendedRoss (/127.69.119.239:49245) lost connection: Timed out
+[08:01:14] [Server thread/INFO]: ExpertDead issued server command: /kill @e[type=minecraft:happy_ghast]
+[08:01:14] [Server thread/INFO]: [ExpertDead: Killed Happy Ghast]
+[08:01:53] [Server thread/INFO]: ExpertDead lost connection: Disconnected
+[08:01:53] [Server thread/INFO]: [voicechat] Disconnecting client ExpertDead
+[08:01:54] [Server thread/INFO]: ExpertDead left the game
+[08:02:28] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 5
+[08:02:32] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 2
+[08:02:43] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 1
+[08:02:48] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 2
+[08:02:55] [Server thread/INFO]: [AscendedRoss: Set own game mode to Survival Mode]
+[08:02:58] [Server thread/INFO]: [AscendedRoss: Set own game mode to Creative Mode]
+[08:03:01] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 0.5
+[08:03:37] [Server thread/INFO]: Itz_Xblade issued server command: /summon minecraft:ender_dragon
+[08:03:37] [Server thread/INFO]: [Itz_Xblade: Summoned new Ender Dragon]
+[08:03:49] [Server thread/INFO]: AscendedRoss issued server command: /kill @e
+[08:03:49] [Server thread/INFO]: AscendedRoss was killed
+[08:03:49] [Server thread/INFO]: Anime_Del was killed
+[08:03:49] [Server thread/INFO]: Itz_Xblade was killed
+[08:03:49] [Server thread/INFO]: [AscendedRoss: Killed 203 entities]
+[08:04:33] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 2
+[08:04:41] [Server thread/INFO]: Itz_Xblade issued server command: /ban-ip
+[08:04:47] [Server thread/INFO]: Itz_Xblade issued server command: /
+[08:04:53] [Server thread/INFO]: Itz_Xblade issued server command: /kill AscendedRoss
+[08:04:53] [Server thread/INFO]: AscendedRoss was killed
+[08:04:53] [Server thread/INFO]: [Itz_Xblade: Killed AscendedRoss]
+[08:04:57] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 0.1
+[08:05:06] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 0.1
+[08:05:11] [Server thread/INFO]: [Itz_Xblade: Set own game mode to Adventure Mode]
+[08:05:13] [Server thread/INFO]: [Itz_Xblade: Set own game mode to Creative Mode]
+[08:05:22] [Server thread/INFO]: AscendedRoss issued server command: /tp @a Anime_Del
+[08:05:22] [Server thread/INFO]: [AscendedRoss: Teleported 3 entities to Anime_Del]
+[08:05:54] [Server thread/INFO]: Anime_Del issued server command: /kill AscendedRoss
+[08:05:54] [Server thread/INFO]: AscendedRoss was killed
+[08:05:54] [Server thread/INFO]: [Anime_Del: Killed AscendedRoss]
+[08:06:10] [Server thread/INFO]: AscendedRoss issued server command: /summon minecraft:tnt_minecart ~ ~ ~
+[08:06:10] [Server thread/INFO]: [AscendedRoss: Summoned new Minecart with TNT]
+[08:06:38] [Server thread/INFO]: AscendedRoss issued server command: /attribute AscendedRoss minecraft:scale base set 1
+[08:06:55] [Server thread/INFO]: [Not Secure] [Server] ples dont use /attribute
+[08:07:05] [Async Chat Thread - #1/INFO]: [Not Secure] <AscendedRoss> expert hes nuking spawn
+[08:07:38] [Server thread/INFO]: AscendedRoss issued server command: /ban Anime_Del
+[08:07:38] [Server thread/INFO]: [AscendedRoss: Banned Anime_Del: Banned by an operator.]
+[08:07:38] [Server thread/INFO]: Anime_Del lost connection: You are banned from this server
+[08:07:38] [Server thread/INFO]: [voicechat] Disconnecting client Anime_Del
+[08:07:38] [Server thread/INFO]: Anime_Del left the game
+[08:07:50] [User Authenticator #2/INFO]: UUID of player Warden_Here is babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[08:07:50] [Server thread/INFO]: Warden_Here joined the game
+[08:07:50] [Server thread/INFO]: Warden_Here[/127.150.188.92:42119] logged in with entity id 4821 at ([world]5.76699010896507, 63.0, 321.1372464537939)
+[08:07:50] [Server thread/INFO]: [voicechat] Received secret request of Warden_Here (20)
+[08:07:50] [Server thread/INFO]: [voicechat] Sent secret to Warden_Here
+[08:07:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[08:07:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[08:07:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Warden_Here (babc0c99-2625-3ac0-a339-1ba939a2a0e1) successfully connected to voice chat
+[08:07:57] [Server thread/INFO]: [Warden_Here: Set own game mode to Creative Mode]
+[08:08:23] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 100
+[08:08:25] [Server thread/INFO]: Itz_Xblade issued server command: /summon minecraft:enderman
+[08:08:25] [Server thread/INFO]: [Itz_Xblade: Summoned new Enderman]
+[08:08:32] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 10000
+[08:08:38] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1000000000
+[08:08:41] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 2
+[08:08:44] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 188
+[08:08:46] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1889090
+[08:08:53] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:08:55] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:08:56] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:08:57] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:08:57] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:08:58] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:08:59] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:08:59] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:09:00] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:09:01] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:09:01] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:09:02] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 1
+[08:09:02] [Server thread/INFO]: Warden_Here issued server command: /attribute Itz_Xblade minecraft:scale base set 0.01
+[08:09:03] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:09:03] [Server thread/INFO]: AscendedRoss issued server command: /attribute Itz_Xblade minecraft:scale base set 999
+[08:09:11] [Server thread/INFO]: AscendedRoss issued server command: /deop Itz_Xblade
+[08:09:11] [Server thread/INFO]: [AscendedRoss: Made Itz_Xblade no longer a server operator]
+[08:09:18] [Server thread/INFO]: AscendedRoss issued server command: /gamemode survival Itz_Xblade
+[08:09:18] [Server thread/INFO]: [AscendedRoss: Set Itz_Xblade's game mode to Survival Mode]
+[08:09:24] [Server thread/WARN]: Player Itz_Xblade tried to change game mode to Creative without required permissions
+[08:09:26] [Server thread/INFO]: AscendedRoss issued server command: /enchant @s minecraft:wind_burst
+[08:09:26] [Server thread/INFO]: [AscendedRoss: Applied enchantment Wind Burst I to AscendedRoss's item]
+[08:09:26] [Server thread/WARN]: Player Itz_Xblade tried to change game mode to Adventure without required permissions
+[08:09:27] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:30] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:33] [Server thread/INFO]: Itz_Xblade was smashed by AscendedRoss
+[08:09:34] [Server thread/INFO]: Itz_Xblade was smashed by AscendedRoss
+[08:09:36] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:37] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:38] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:42] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:48] [Server thread/INFO]: Itz_Xblade was slain by Warden_Here
+[08:09:54] [Server thread/INFO]: Itz_Xblade was slain by Warden_Here
+[08:09:54] [Server thread/INFO]: AscendedRoss issued server command: /enchant @s minecraft:wind_burst 3
+[08:09:56] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:58] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:09:58] [Server thread/INFO]: AscendedRoss issued server command: /enchant @s minecraft:wind_burst 3
+[08:09:58] [Server thread/INFO]: [AscendedRoss: Applied enchantment Wind Burst III to AscendedRoss's item]
+[08:10:03] [Server thread/INFO]: Itz_Xblade was smashed by Warden_Here
+[08:10:04] [Server thread/INFO]: Itz_Xblade lost connection: Disconnected
+[08:10:04] [Server thread/INFO]: [voicechat] Disconnecting client Itz_Xblade
+[08:10:04] [Server thread/INFO]: Itz_Xblade left the game
+[08:10:23] [Server thread/INFO]: [Warden_Here: Set own game mode to Adventure Mode]
+[08:10:32] [Server thread/INFO]: AscendedRoss fell out of the world
+[08:10:34] [Server thread/INFO]: AscendedRoss lost connection: Disconnected
+[08:10:34] [Server thread/INFO]: [voicechat] Disconnecting client AscendedRoss
+[08:10:34] [Server thread/INFO]: AscendedRoss left the game
+[08:10:50] [Server thread/INFO]: [Warden_Here: Set own game mode to Creative Mode]
+[08:10:53] [Server thread/INFO]: [Warden_Here: Set own game mode to Survival Mode]
+[08:11:18] [Server thread/INFO]: [Warden_Here: Set own game mode to Creative Mode]
+[08:11:38] [Server thread/INFO]: Warden_Here lost connection: Disconnected
+[08:11:38] [Server thread/INFO]: [voicechat] Disconnecting client Warden_Here
+[08:11:38] [Server thread/INFO]: Warden_Here left the game
+[09:21:25] [User Authenticator #3/INFO]: UUID of player Warden_Here is babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[09:21:25] [Server thread/INFO]: Warden_Here joined the game
+[09:21:25] [Server thread/INFO]: Warden_Here[/127.150.188.92:55577] logged in with entity id 6406 at ([world]83.27319716338259, 97.49313609960745, 310.6701238058928)
+[09:21:26] [Server thread/INFO]: [voicechat] Received secret request of Warden_Here (20)
+[09:21:26] [Server thread/INFO]: [voicechat] Sent secret to Warden_Here
+[09:21:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[09:21:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[09:21:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Warden_Here (babc0c99-2625-3ac0-a339-1ba939a2a0e1) successfully connected to voice chat
+[09:22:30] [Server thread/INFO]: Warden_Here lost connection: Disconnected
+[09:22:30] [Server thread/INFO]: [voicechat] Disconnecting client Warden_Here
+[09:22:30] [Server thread/INFO]: Warden_Here left the game
+[10:21:22] [User Authenticator #4/INFO]: UUID of player Warden_Here is babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[10:21:23] [Server thread/INFO]: Warden_Here joined the game
+[10:21:23] [Server thread/INFO]: Warden_Here[/127.150.188.92:39857] logged in with entity id 7093 at ([world]33.72605306812378, 79.95916070510398, 392.61817276385057)
+[10:21:23] [Server thread/INFO]: [voicechat] Received secret request of Warden_Here (20)
+[10:21:23] [Server thread/INFO]: [voicechat] Sent secret to Warden_Here
+[10:21:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[10:21:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player babc0c99-2625-3ac0-a339-1ba939a2a0e1
+[10:21:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Warden_Here (babc0c99-2625-3ac0-a339-1ba939a2a0e1) successfully connected to voice chat
+[10:21:26] [Server thread/INFO]: Warden_Here lost connection: Disconnected
+[10:21:26] [Server thread/INFO]: [voicechat] Disconnecting client Warden_Here
+[10:21:26] [Server thread/INFO]: Warden_Here left the game
+[11:04:03] [Server thread/INFO]: Stopping the server
+[11:04:04] [Server thread/INFO]: Stopping server
+[11:04:04] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.15
+[11:04:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
+[11:04:04] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.15.0+59372c5
+[11:04:04] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[11:04:04] [Server thread/INFO]: Saving players
+[11:04:04] [Server thread/INFO]: Saving worlds
+[11:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[11:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[11:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[11:04:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[11:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:04:04] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[11:04:04] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[11:04:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[11:04:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

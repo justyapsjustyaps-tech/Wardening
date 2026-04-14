@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:snow": 68,
+      "minecraft:spruce_fence": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:spruce_fence": 1,
+      "minecraft:snow": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 48,
+      "minecraft:walk_one_cm": 14658,
+      "minecraft:leave_game": 5,
+      "minecraft:damage_taken": 722,
+      "minecraft:play_time": 9136,
+      "minecraft:jump": 74,
+      "minecraft:time_since_death": 0,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 25718,
+      "minecraft:fall_one_cm": 445,
+      "minecraft:total_world_time": 9136,
+      "minecraft:fly_one_cm": 66176,
+      "minecraft:walk_on_water_one_cm": 356,
+      "minecraft:crouch_one_cm": 231,
+      "minecraft:sneak_time": 382,
+      "minecraft:deaths": 3,
+      "minecraft:climb_one_cm": 332
+    },
+    "minecraft:mined": {
+      "minecraft:leaf_litter": 1
+    }
+  },
+  "DataVersion": 4671
+}
